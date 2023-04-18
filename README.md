@@ -13,10 +13,10 @@ The pandemic has changed the idea of where city dwellers live and work. With rem
 
 
 ### Data:
-New York City Housing Retail Sales Data (2017-2021) 
-Transportation Data for the NYC Subway (2017-2021) 
-311 Data NYC (2017-2021)
-Waste Data (2017-2021)
+- New York City Housing Retail Sales Data (2017-2021) 
+- Transportation Data for the NYC Subway (2017-2021) 
+- 311 Data NYC (2017-2021)
+- Waste Data (2017-2021)
 
 ### Methods Used:
 - Clustering
