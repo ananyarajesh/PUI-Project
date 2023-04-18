@@ -19,15 +19,15 @@ Transportation Data for the NYC Subway (2017-2021)
 Waste Data (2017-2021)
 
 ### Methods Used:
-Clustering
-Correlation Regression and Classification 
+- Clustering
+- Correlation Regression and Classification 
 
 ### Collaborators:
 
-Ahmad Nasrieh - ahmadnasrieh
-Ananya Rajesh - ananyarajesh
-Claire Chen - CC-ClaireChen
-Shantanu Anikhindi - shantanu1000
-Sreya Chakraborthy - sreya1005
-Vickram Peter - ViceHP
-Zen Chayuth - ZenChayuth
+- Ahmad Nasrieh - ahmadnasrieh
+- Ananya Rajesh - ananyarajesh
+- Claire Chen - CC-ClaireChen
+- Shantanu Anikhindi - shantanu1000
+- Sreya Chakraborthy - sreya1005
+- Vickram Peter - ViceHP
+- Zen Chayuth - ZenChayuth
