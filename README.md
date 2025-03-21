@@ -25,6 +25,7 @@ The pandemic has changed the idea of where city dwellers live and work. With rem
 ### Collaborators:
 
 - Ahmad Nasrieh - ahmadnasrieh
+- Ananya Rajesh - ananyarajesh
 - Claire Chen - CC-ClaireChen
 - Shantanu Anikhindi - shantanu1000
 - Sreya Chakraborthy - sreya1005
